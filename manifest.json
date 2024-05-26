@@ -1,0 +1,12 @@
+{
+    "name": "Cricket Updates",
+    "description": "Get cricket updates daily",
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "author": "Aman Sharma",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Cricket Updates ",
+        "default_icon": "ipl.png"
+    }
+}
